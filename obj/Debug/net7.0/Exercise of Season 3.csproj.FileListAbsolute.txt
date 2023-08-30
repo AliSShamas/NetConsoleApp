@@ -1,0 +1,36 @@
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.exe
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.deps.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.runtimeconfig.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\RestSharp.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.csproj.CopyComplete
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\refint\Exercise of Season 3.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\ref\Exercise of Season 3.dll
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.dll
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\refint\Exercise of Season 3.dll
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.pdb
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.exe
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.deps.json
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.runtimeconfig.json
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.dll
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Exercise of Season 3.pdb
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\bin\Debug\net7.0\RestSharp.dll
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.csproj.CopyComplete
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\Exercise of Season 3.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\code\dell\Part 3 stardust Crusadors\S4 exception,config,+more(stringbuilder)\Exercise of Season 3\obj\Debug\net7.0\ref\Exercise of Season 3.dll
